@@ -1,0 +1,13 @@
+District,Policy,Relative Deficit,case,color,
+6,Best Hydropower,0.647514364,ir,#3c8cc3,0.421003692
+6,Best Environment,0.610583729,ir,#4694c7,
+6,Best Irrigation,0.004912982,ir,#f6fafe,
+6,Best Hydropower,0.644184,bc,#3d8dc3,0.419116333
+6,Best Environment,0.606254,bc,#4795c8,
+6,Best Irrigation,0.006911,bc,#f6fafe,
+6,Best Hydropower,0.534224332,hyd,#60a6d1,0.472145891
+6,Best Environment,0.877300358,hyd,#08509a,
+6,Best Irrigation,0.004912982,hyd,#f6fafe,
+6,Best Hydropower,0.652177534,full,#3b8bc2,0.488661282
+6,Best Environment,0.813806312,full,#1360a7,
+6,Best Irrigation,0,full,#f7fbff,
