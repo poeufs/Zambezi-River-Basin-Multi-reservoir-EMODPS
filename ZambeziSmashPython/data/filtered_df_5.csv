@@ -1,13 +1,3 @@
-District,Policy,Relative Deficit,case,color,
-5,Best Hydropower,0.805104408,ir,#1562a9,0.415699923
-5,Best Environment,0.423433875,ir,#8abfdc,
-5,Best Irrigation,0.018561485,ir,#f3f8fd,
-5,Best Hydropower,0.00348,bc,#f7fbff,0.069218667
-5,Best Environment,0.204176,bc,#cee0f1,
-5,Best Irrigation,0,bc,#f7fbff,
-5,Best Hydropower,0.279582367,hyd,#bcd7eb,0.131477185
-5,Best Environment,0.114849188,hyd,#e0ecf7,
-5,Best Irrigation,0,hyd,#f7fbff,
-5,Best Hydropower,0.787703016,full,#1967ad,0.295050271
-5,Best Environment,0.09512761,full,#e4eef8,
-5,Best Irrigation,0.002320186,full,#f7fbff,
+version https://git-lfs.github.com/spec/v1
+oid sha256:437da3ca10c1d828503a901fa01ed16a0085e77de0f6f15551175b14debd4497
+size 591
